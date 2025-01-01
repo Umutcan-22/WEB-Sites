@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DDEBFF5C-8E4B-4250-B9F6-D160E739FD97}|Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013.csproj|c:\\users\\acer\\source\\repos\\umutcan_gungor_241103013\\umutcan_gungor_241103013\\wwwroot\\as\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{DDEBFF5C-8E4B-4250-B9F6-D160E739FD97}|Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013.csproj|solutionrelative:umutcan_gungor_241103013\\wwwroot\\as\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDEBFF5C-8E4B-4250-B9F6-D160E739FD97}|Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013.csproj|c:\\users\\acer\\source\\repos\\umutcan_gungor_241103013\\umutcan_gungor_241103013\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DDEBFF5C-8E4B-4250-B9F6-D160E739FD97}|Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013.csproj|solutionrelative:umutcan_gungor_241103013\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDEBFF5C-8E4B-4250-B9F6-D160E739FD97}|Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013.csproj|c:\\users\\acer\\source\\repos\\umutcan_gungor_241103013\\umutcan_gungor_241103013\\views\\proje\\hakkimizda.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DDEBFF5C-8E4B-4250-B9F6-D160E739FD97}|Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013.csproj|solutionrelative:umutcan_gungor_241103013\\views\\proje\\hakkimizda.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDEBFF5C-8E4B-4250-B9F6-D160E739FD97}|Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013.csproj|c:\\users\\acer\\source\\repos\\umutcan_gungor_241103013\\umutcan_gungor_241103013\\controllers\\projecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDEBFF5C-8E4B-4250-B9F6-D160E739FD97}|Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013.csproj|solutionrelative:umutcan_gungor_241103013\\controllers\\projecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDEBFF5C-8E4B-4250-B9F6-D160E739FD97}|Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013.csproj|c:\\users\\acer\\source\\repos\\umutcan_gungor_241103013\\umutcan_gungor_241103013\\views\\proje\\anasayfa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DDEBFF5C-8E4B-4250-B9F6-D160E739FD97}|Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013.csproj|solutionrelative:umutcan_gungor_241103013\\views\\proje\\anasayfa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProjeController.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\Controllers\\ProjeController.cs",
+              "RelativeDocumentMoniker": "Umutcan_Gungor_241103013\\Controllers\\ProjeController.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\Controllers\\ProjeController.cs",
+              "RelativeToolTip": "Umutcan_Gungor_241103013\\Controllers\\ProjeController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T23:56:20.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\as\\style.css",
+              "RelativeDocumentMoniker": "Umutcan_Gungor_241103013\\wwwroot\\as\\style.css",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\as\\style.css",
+              "RelativeToolTip": "Umutcan_Gungor_241103013\\wwwroot\\as\\style.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-31T23:51:53.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Umutcan_Gungor_241103013\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Umutcan_Gungor_241103013\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-31T23:47:42.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Hakkimizda.cshtml",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\Views\\Proje\\Hakkimizda.cshtml",
+              "RelativeDocumentMoniker": "Umutcan_Gungor_241103013\\Views\\Proje\\Hakkimizda.cshtml",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\Views\\Proje\\Hakkimizda.cshtml",
+              "RelativeToolTip": "Umutcan_Gungor_241103013\\Views\\Proje\\Hakkimizda.cshtml",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAAAH0AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-31T23:47:23.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Anasayfa.cshtml",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\Views\\Proje\\Anasayfa.cshtml",
+              "RelativeDocumentMoniker": "Umutcan_Gungor_241103013\\Views\\Proje\\Anasayfa.cshtml",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\Views\\Proje\\Anasayfa.cshtml",
+              "RelativeToolTip": "Umutcan_Gungor_241103013\\Views\\Proje\\Anasayfa.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-31T23:44:26.445Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

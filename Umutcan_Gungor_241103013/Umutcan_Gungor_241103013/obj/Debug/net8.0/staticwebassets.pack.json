@@ -1,0 +1,973 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\Content\\assets\\revolution\\css\\layers.css",
+      "PackagePath": "staticwebassets\\Content\\assets\\revolution\\css\\layers.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\Content\\assets\\revolution\\css\\navigation.css",
+      "PackagePath": "staticwebassets\\Content\\assets\\revolution\\css\\navigation.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\Content\\assets\\revolution\\css\\settings.css",
+      "PackagePath": "staticwebassets\\Content\\assets\\revolution\\css\\settings.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\Content\\assets\\revolution\\fonts\\revicons\\revicons.woff",
+      "PackagePath": "staticwebassets\\Content\\assets\\revolution\\fonts\\revicons\\revicons.woff"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\Content\\assets\\revolution\\js\\extensions\\revolution.extension.actions.min.js",
+      "PackagePath": "staticwebassets\\Content\\assets\\revolution\\js\\extensions\\revolution.extension.actions.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\Content\\assets\\revolution\\js\\extensions\\revolution.extension.carousel.min.js",
+      "PackagePath": "staticwebassets\\Content\\assets\\revolution\\js\\extensions\\revolution.extension.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\Content\\assets\\revolution\\js\\extensions\\revolution.extension.kenburn.min.js",
+      "PackagePath": "staticwebassets\\Content\\assets\\revolution\\js\\extensions\\revolution.extension.kenburn.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\Content\\assets\\revolution\\js\\extensions\\revolution.extension.layeranimation.min.js",
+      "PackagePath": "staticwebassets\\Content\\assets\\revolution\\js\\extensions\\revolution.extension.layeranimation.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\Content\\assets\\revolution\\js\\extensions\\revolution.extension.migration.min.js",
+      "PackagePath": "staticwebassets\\Content\\assets\\revolution\\js\\extensions\\revolution.extension.migration.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\Content\\assets\\revolution\\js\\extensions\\revolution.extension.navigation.min.js",
+      "PackagePath": "staticwebassets\\Content\\assets\\revolution\\js\\extensions\\revolution.extension.navigation.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\Content\\assets\\revolution\\js\\extensions\\revolution.extension.parallax.min.js",
+      "PackagePath": "staticwebassets\\Content\\assets\\revolution\\js\\extensions\\revolution.extension.parallax.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\Content\\assets\\revolution\\js\\extensions\\revolution.extension.slideanims.min.js",
+      "PackagePath": "staticwebassets\\Content\\assets\\revolution\\js\\extensions\\revolution.extension.slideanims.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\Content\\assets\\revolution\\js\\extensions\\revolution.extension.video.min.js",
+      "PackagePath": "staticwebassets\\Content\\assets\\revolution\\js\\extensions\\revolution.extension.video.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\Content\\assets\\revolution\\js\\jquery.themepunch.revolution.min.js",
+      "PackagePath": "staticwebassets\\Content\\assets\\revolution\\js\\jquery.themepunch.revolution.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\Content\\assets\\revolution\\js\\jquery.themepunch.tools.min.js",
+      "PackagePath": "staticwebassets\\Content\\assets\\revolution\\js\\jquery.themepunch.tools.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\Content\\css\\animate.min.css",
+      "PackagePath": "staticwebassets\\Content\\css\\animate.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\Content\\css\\bootstrap-select.min.css",
+      "PackagePath": "staticwebassets\\Content\\css\\bootstrap-select.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\Content\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\Content\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\Content\\css\\flexslider.css",
+      "PackagePath": "staticwebassets\\Content\\css\\flexslider.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\Content\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\Content\\css\\font-awesome.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\Content\\css\\hover.css",
+      "PackagePath": "staticwebassets\\Content\\css\\hover.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\Content\\css\\icomoon.css",
+      "PackagePath": "staticwebassets\\Content\\css\\icomoon.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\Content\\css\\jquery-ui.css",
+      "PackagePath": "staticwebassets\\Content\\css\\jquery-ui.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\Content\\css\\jquery.bootstrap-touchspin.css",
+      "PackagePath": "staticwebassets\\Content\\css\\jquery.bootstrap-touchspin.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\Content\\css\\jquery.bxslider.css",
+      "PackagePath": "staticwebassets\\Content\\css\\jquery.bxslider.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\Content\\css\\jquery.fancybox.css",
+      "PackagePath": "staticwebassets\\Content\\css\\jquery.fancybox.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\Content\\css\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\Content\\css\\magnific-popup.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\Content\\css\\masterslider\\masterslider.css",
+      "PackagePath": "staticwebassets\\Content\\css\\masterslider\\masterslider.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\Content\\css\\masterslider\\ms-caro3d.css",
+      "PackagePath": "staticwebassets\\Content\\css\\masterslider\\ms-caro3d.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\Content\\css\\masterslider\\style.css",
+      "PackagePath": "staticwebassets\\Content\\css\\masterslider\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\Content\\css\\nouislider.css",
+      "PackagePath": "staticwebassets\\Content\\css\\nouislider.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\Content\\css\\nouislider.pips.css",
+      "PackagePath": "staticwebassets\\Content\\css\\nouislider.pips.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\Content\\css\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\Content\\css\\owl.carousel.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\Content\\css\\polyglot-language-switcher.css",
+      "PackagePath": "staticwebassets\\Content\\css\\polyglot-language-switcher.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\Content\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\Content\\css\\responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\Content\\css\\style.css",
+      "PackagePath": "staticwebassets\\Content\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\Content\\fonts\\Flaticon.woff",
+      "PackagePath": "staticwebassets\\Content\\fonts\\Flaticon.woff"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\Content\\fonts\\flaticon.css",
+      "PackagePath": "staticwebassets\\Content\\fonts\\flaticon.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\Content\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\Content\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\Content\\images\\background\\1.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\background\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\Content\\images\\background\\2.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\background\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\Content\\images\\background\\5.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\background\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\Content\\images\\background\\6.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\background\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\Content\\images\\blog\\1.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\blog\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\Content\\images\\blog\\2.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\blog\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\Content\\images\\blog\\3.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\blog\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\Content\\images\\blog\\bs.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\blog\\bs.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\Content\\images\\icons\\preloader.gif",
+      "PackagePath": "staticwebassets\\Content\\images\\icons\\preloader.gif"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\Content\\images\\logo\\favicon.png",
+      "PackagePath": "staticwebassets\\Content\\images\\logo\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\Content\\images\\logo\\logo.png",
+      "PackagePath": "staticwebassets\\Content\\images\\logo\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\Content\\images\\logo\\logo2.png",
+      "PackagePath": "staticwebassets\\Content\\images\\logo\\logo2.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\Content\\images\\logo\\logo852.png",
+      "PackagePath": "staticwebassets\\Content\\images\\logo\\logo852.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\Content\\images\\project\\1.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\project\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\Content\\images\\project\\2.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\project\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\Content\\images\\project\\3.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\project\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\Content\\images\\project\\4.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\project\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\Content\\images\\project\\5.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\project\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\Content\\images\\project\\6.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\project\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\Content\\images\\resource\\about.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\resource\\about.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\Content\\images\\resource\\fi1.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\resource\\fi1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\Content\\images\\resource\\fi2.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\resource\\fi2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\Content\\images\\resource\\fi3.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\resource\\fi3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\Content\\images\\resource\\fi4.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\resource\\fi4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\Content\\images\\resource\\fi5.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\resource\\fi5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\Content\\images\\resource\\fi6.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\resource\\fi6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\Content\\images\\resource\\founder.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\resource\\founder.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\Content\\images\\resource\\tb.png",
+      "PackagePath": "staticwebassets\\Content\\images\\resource\\tb.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\Content\\images\\resource\\tb2.png",
+      "PackagePath": "staticwebassets\\Content\\images\\resource\\tb2.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\Content\\images\\resource\\who.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\resource\\who.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\Content\\images\\service\\s1.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\service\\s1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\Content\\images\\service\\ss2.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\service\\ss2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\Content\\images\\slider\\1.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\slider\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\Content\\images\\slider\\2.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\slider\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\Content\\images\\slider\\3.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\slider\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\Content\\images\\slider\\4.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\slider\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\Content\\images\\slider\\5.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\slider\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\Content\\images\\team\\1.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\team\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\Content\\images\\team\\2.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\team\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\Content\\images\\team\\3.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\team\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\Content\\images\\team\\4.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\team\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\Content\\js\\SmoothScroll.js",
+      "PackagePath": "staticwebassets\\Content\\js\\SmoothScroll.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\Content\\js\\bootstrap-select.min.js",
+      "PackagePath": "staticwebassets\\Content\\js\\bootstrap-select.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\Content\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\Content\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\Content\\js\\custom.js",
+      "PackagePath": "staticwebassets\\Content\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\Content\\js\\default-map.js",
+      "PackagePath": "staticwebassets\\Content\\js\\default-map.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\Content\\js\\gmap.js",
+      "PackagePath": "staticwebassets\\Content\\js\\gmap.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\Content\\js\\imagezoom.js",
+      "PackagePath": "staticwebassets\\Content\\js\\imagezoom.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\Content\\js\\isotope.js",
+      "PackagePath": "staticwebassets\\Content\\js\\isotope.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\Content\\js\\jquery-ui.js",
+      "PackagePath": "staticwebassets\\Content\\js\\jquery-ui.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\Content\\js\\jquery.appear.js",
+      "PackagePath": "staticwebassets\\Content\\js\\jquery.appear.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\Content\\js\\jquery.bootstrap-touchspin.js",
+      "PackagePath": "staticwebassets\\Content\\js\\jquery.bootstrap-touchspin.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\Content\\js\\jquery.countTo.js",
+      "PackagePath": "staticwebassets\\Content\\js\\jquery.countTo.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\Content\\js\\jquery.fancybox.pack.js",
+      "PackagePath": "staticwebassets\\Content\\js\\jquery.fancybox.pack.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\Content\\js\\jquery.fitvids.js",
+      "PackagePath": "staticwebassets\\Content\\js\\jquery.fitvids.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\Content\\js\\jquery.flexslider.js",
+      "PackagePath": "staticwebassets\\Content\\js\\jquery.flexslider.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\Content\\js\\jquery.js",
+      "PackagePath": "staticwebassets\\Content\\js\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\Content\\js\\jquery.mixitup.min.js",
+      "PackagePath": "staticwebassets\\Content\\js\\jquery.mixitup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\Content\\js\\jquery.polyglot.language.switcher.js",
+      "PackagePath": "staticwebassets\\Content\\js\\jquery.polyglot.language.switcher.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\Content\\js\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\Content\\js\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\Content\\js\\nouislider.js",
+      "PackagePath": "staticwebassets\\Content\\js\\nouislider.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\Content\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\Content\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\Content\\js\\wow.js",
+      "PackagePath": "staticwebassets\\Content\\js\\wow.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\as\\fotovevideo\\ceket1..jpg",
+      "PackagePath": "staticwebassets\\as\\fotovevideo\\ceket1..jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\as\\fotovevideo\\ekipman1.webp",
+      "PackagePath": "staticwebassets\\as\\fotovevideo\\ekipman1.webp"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\as\\fotovevideo\\eldiven6..jpg",
+      "PackagePath": "staticwebassets\\as\\fotovevideo\\eldiven6..jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\as\\fotovevideo\\honda-5230398_640.jpg",
+      "PackagePath": "staticwebassets\\as\\fotovevideo\\honda-5230398_640.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\as\\fotovevideo\\honda-pcx-160-2022.jpg",
+      "PackagePath": "staticwebassets\\as\\fotovevideo\\honda-pcx-160-2022.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\as\\fotovevideo\\kask9..jpg",
+      "PackagePath": "staticwebassets\\as\\fotovevideo\\kask9..jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\as\\fotovevideo\\motor1.jpg",
+      "PackagePath": "staticwebassets\\as\\fotovevideo\\motor1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\as\\fotovevideo\\motor2.png",
+      "PackagePath": "staticwebassets\\as\\fotovevideo\\motor2.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\as\\fotovevideo\\motor3.png",
+      "PackagePath": "staticwebassets\\as\\fotovevideo\\motor3.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\as\\fotovevideo\\motovideo.mp4",
+      "PackagePath": "staticwebassets\\as\\fotovevideo\\motovideo.mp4"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\as\\fotovevideo\\mt7.jpg",
+      "PackagePath": "staticwebassets\\as\\fotovevideo\\mt7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\as\\style.css",
+      "PackagePath": "staticwebassets\\as\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\deneme\\bt-css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\deneme\\bt-css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\deneme\\style.css",
+      "PackagePath": "staticwebassets\\deneme\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\web-about\\CSS\\style.css",
+      "PackagePath": "staticwebassets\\web-about\\CSS\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\web-about\\bt-css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\web-about\\bt-css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\web-about\\bt-js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\web-about\\bt-js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\web-about\\fotos3\\biker-407123_640.jpg",
+      "PackagePath": "staticwebassets\\web-about\\fotos3\\biker-407123_640.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\web-about\\fotos3\\blank-profile-picture-973460_640 (1).png",
+      "PackagePath": "staticwebassets\\web-about\\fotos3\\blank-profile-picture-973460_640 (1).png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\web-about\\fotos3\\dirt-bike-330815_640.jpg",
+      "PackagePath": "staticwebassets\\web-about\\fotos3\\dirt-bike-330815_640.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\web-about\\fotos3\\motor.jpg",
+      "PackagePath": "staticwebassets\\web-about\\fotos3\\motor.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\web-about\\fotos3\\motorbike-7249769_640.jpg",
+      "PackagePath": "staticwebassets\\web-about\\fotos3\\motorbike-7249769_640.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\web-about\\fotos3\\motorcycle-6288958_1280.jpg",
+      "PackagePath": "staticwebassets\\web-about\\fotos3\\motorcycle-6288958_1280.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\web-about\\fotos3\\motorcycle-6288958_1920.jpg",
+      "PackagePath": "staticwebassets\\web-about\\fotos3\\motorcycle-6288958_1920.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\web-about\\fotos3\\motorcycle-6288958_640.jpg",
+      "PackagePath": "staticwebassets\\web-about\\fotos3\\motorcycle-6288958_640.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\web-contact\\CSS\\style.css",
+      "PackagePath": "staticwebassets\\web-contact\\CSS\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\web-contact\\bt-css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\web-contact\\bt-css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\web-ekipman\\CSS\\style.css",
+      "PackagePath": "staticwebassets\\web-ekipman\\CSS\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\web-ekipman\\fotos\\DİZLİK3..jpg",
+      "PackagePath": "staticwebassets\\web-ekipman\\fotos\\DİZLİK3..jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\web-ekipman\\fotos\\ceket 2.jpg",
+      "PackagePath": "staticwebassets\\web-ekipman\\fotos\\ceket 2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\web-ekipman\\fotos\\ceket1..jpg",
+      "PackagePath": "staticwebassets\\web-ekipman\\fotos\\ceket1..jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\web-ekipman\\fotos\\ceket3..jpg",
+      "PackagePath": "staticwebassets\\web-ekipman\\fotos\\ceket3..jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\web-ekipman\\fotos\\ceket4..jpg",
+      "PackagePath": "staticwebassets\\web-ekipman\\fotos\\ceket4..jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\web-ekipman\\fotos\\ceket5..jpg",
+      "PackagePath": "staticwebassets\\web-ekipman\\fotos\\ceket5..jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\web-ekipman\\fotos\\ceket6..jpg",
+      "PackagePath": "staticwebassets\\web-ekipman\\fotos\\ceket6..jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\web-ekipman\\fotos\\ceket7..jpg",
+      "PackagePath": "staticwebassets\\web-ekipman\\fotos\\ceket7..jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\web-ekipman\\fotos\\dizlik1..jpg",
+      "PackagePath": "staticwebassets\\web-ekipman\\fotos\\dizlik1..jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\web-ekipman\\fotos\\dizlik2..jpg",
+      "PackagePath": "staticwebassets\\web-ekipman\\fotos\\dizlik2..jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\web-ekipman\\fotos\\edliven5..jpg",
+      "PackagePath": "staticwebassets\\web-ekipman\\fotos\\edliven5..jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\web-ekipman\\fotos\\eldiven1..jpg",
+      "PackagePath": "staticwebassets\\web-ekipman\\fotos\\eldiven1..jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\web-ekipman\\fotos\\eldiven2.jpg",
+      "PackagePath": "staticwebassets\\web-ekipman\\fotos\\eldiven2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\web-ekipman\\fotos\\eldiven3..jpg",
+      "PackagePath": "staticwebassets\\web-ekipman\\fotos\\eldiven3..jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\web-ekipman\\fotos\\eldiven4..jpg",
+      "PackagePath": "staticwebassets\\web-ekipman\\fotos\\eldiven4..jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\web-ekipman\\fotos\\eldiven5..jpg",
+      "PackagePath": "staticwebassets\\web-ekipman\\fotos\\eldiven5..jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\web-ekipman\\fotos\\eldiven6..jpg",
+      "PackagePath": "staticwebassets\\web-ekipman\\fotos\\eldiven6..jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\web-ekipman\\fotos\\kask1.jpg",
+      "PackagePath": "staticwebassets\\web-ekipman\\fotos\\kask1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\web-ekipman\\fotos\\kask10.jpg",
+      "PackagePath": "staticwebassets\\web-ekipman\\fotos\\kask10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\web-ekipman\\fotos\\kask11.jpg",
+      "PackagePath": "staticwebassets\\web-ekipman\\fotos\\kask11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\web-ekipman\\fotos\\kask12.jpg",
+      "PackagePath": "staticwebassets\\web-ekipman\\fotos\\kask12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\web-ekipman\\fotos\\kask2..jpg",
+      "PackagePath": "staticwebassets\\web-ekipman\\fotos\\kask2..jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\web-ekipman\\fotos\\kask3..jpg",
+      "PackagePath": "staticwebassets\\web-ekipman\\fotos\\kask3..jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\web-ekipman\\fotos\\kask4..jpg",
+      "PackagePath": "staticwebassets\\web-ekipman\\fotos\\kask4..jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\web-ekipman\\fotos\\kask5..jpg",
+      "PackagePath": "staticwebassets\\web-ekipman\\fotos\\kask5..jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\web-ekipman\\fotos\\kask6..jpg",
+      "PackagePath": "staticwebassets\\web-ekipman\\fotos\\kask6..jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\web-ekipman\\fotos\\kask7..jpg",
+      "PackagePath": "staticwebassets\\web-ekipman\\fotos\\kask7..jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\web-ekipman\\fotos\\kask8..jpg",
+      "PackagePath": "staticwebassets\\web-ekipman\\fotos\\kask8..jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\web-ekipman\\fotos\\kask9..jpg",
+      "PackagePath": "staticwebassets\\web-ekipman\\fotos\\kask9..jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\web-layout\\CSS\\style.css",
+      "PackagePath": "staticwebassets\\web-layout\\CSS\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\web-motor\\CSS\\style.css",
+      "PackagePath": "staticwebassets\\web-motor\\CSS\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\web-motor\\fotos2\\Ktm_duke_390.jpg",
+      "PackagePath": "staticwebassets\\web-motor\\fotos2\\Ktm_duke_390.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\web-motor\\fotos2\\Xj6-n.jpg",
+      "PackagePath": "staticwebassets\\web-motor\\fotos2\\Xj6-n.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\web-motor\\fotos2\\bike-909690_640.jpg",
+      "PackagePath": "staticwebassets\\web-motor\\fotos2\\bike-909690_640.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\web-motor\\fotos2\\biker-407123_640.jpg",
+      "PackagePath": "staticwebassets\\web-motor\\fotos2\\biker-407123_640.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\web-motor\\fotos2\\cbr.jpg",
+      "PackagePath": "staticwebassets\\web-motor\\fotos2\\cbr.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\web-motor\\fotos2\\dirt-bike-330815_640.jpg",
+      "PackagePath": "staticwebassets\\web-motor\\fotos2\\dirt-bike-330815_640.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\web-motor\\fotos2\\gixx.jpg",
+      "PackagePath": "staticwebassets\\web-motor\\fotos2\\gixx.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\web-motor\\fotos2\\honda-5230398_640.jpg",
+      "PackagePath": "staticwebassets\\web-motor\\fotos2\\honda-5230398_640.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\web-motor\\fotos2\\honda-pcx-160-2022.jpg",
+      "PackagePath": "staticwebassets\\web-motor\\fotos2\\honda-pcx-160-2022.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\web-motor\\fotos2\\hyosung.jpg",
+      "PackagePath": "staticwebassets\\web-motor\\fotos2\\hyosung.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\web-motor\\fotos2\\ktttm.jpeg",
+      "PackagePath": "staticwebassets\\web-motor\\fotos2\\ktttm.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\web-motor\\fotos2\\motorcycle-3147278_640.jpg",
+      "PackagePath": "staticwebassets\\web-motor\\fotos2\\motorcycle-3147278_640.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\web-motor\\fotos2\\mt7.jpg",
+      "PackagePath": "staticwebassets\\web-motor\\fotos2\\mt7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\web-motor\\fotos2\\ns200.jpg",
+      "PackagePath": "staticwebassets\\web-motor\\fotos2\\ns200.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\web-motor\\fotos2\\racer.jpg",
+      "PackagePath": "staticwebassets\\web-motor\\fotos2\\racer.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\source\\repos\\Umutcan_Gungor_241103013\\Umutcan_Gungor_241103013\\wwwroot\\web-motor\\fotos2\\zx1400.jpg",
+      "PackagePath": "staticwebassets\\web-motor\\fotos2\\zx1400.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Umutcan_Gungor_241103013.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Umutcan_Gungor_241103013.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Umutcan_Gungor_241103013.props",
+      "PackagePath": "build\\Umutcan_Gungor_241103013.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Umutcan_Gungor_241103013.props",
+      "PackagePath": "buildMultiTargeting\\Umutcan_Gungor_241103013.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Umutcan_Gungor_241103013.props",
+      "PackagePath": "buildTransitive\\Umutcan_Gungor_241103013.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

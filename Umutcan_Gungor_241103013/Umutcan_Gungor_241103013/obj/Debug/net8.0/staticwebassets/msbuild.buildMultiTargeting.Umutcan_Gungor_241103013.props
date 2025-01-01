@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Umutcan_Gungor_241103013.props" />
+</Project>

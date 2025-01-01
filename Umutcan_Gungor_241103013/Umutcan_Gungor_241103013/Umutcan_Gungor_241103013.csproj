@@ -1,0 +1,32 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\web-motor\CSS\style.css" />
+    <None Include="wwwroot\web-motor\fotos2\bike-909690_640.jpg" />
+    <None Include="wwwroot\web-motor\fotos2\biker-407123_640.jpg" />
+    <None Include="wwwroot\web-motor\fotos2\cbr.jpg" />
+    <None Include="wwwroot\web-motor\fotos2\dirt-bike-330815_640.jpg" />
+    <None Include="wwwroot\web-motor\fotos2\gixx.jpg" />
+    <None Include="wwwroot\web-motor\fotos2\honda-5230398_640.jpg" />
+    <None Include="wwwroot\web-motor\fotos2\hyosung.jpg" />
+    <None Include="wwwroot\web-motor\fotos2\Ktm_duke_390.jpg" />
+    <None Include="wwwroot\web-motor\fotos2\ktttm.jpeg" />
+    <None Include="wwwroot\web-motor\fotos2\motorcycle-3147278_640.jpg" />
+    <None Include="wwwroot\web-motor\fotos2\mt7.jpg" />
+    <None Include="wwwroot\web-motor\fotos2\ns200.jpg" />
+    <None Include="wwwroot\web-motor\fotos2\racer.jpg" />
+    <None Include="wwwroot\web-motor\fotos2\Xj6-n.jpg" />
+    <None Include="wwwroot\web-motor\fotos2\zx1400.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\Content\images\clients\" />
+  </ItemGroup>
+
+</Project>

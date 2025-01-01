@@ -1,0 +1,46 @@
+﻿<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="~/web-layout/CSS/style.css" rel="stylesheet" />
+    <title>Document</title>
+</head>
+<body>
+    <header>
+        
+        <div class="header-right">
+               
+          
+           <div class="avatar">
+            <ul>
+                    <a asp-controller="Proje" asp-action="Anasayfa">ANASAYFA</a>
+                    <a asp-controller="Proje" asp-action="Hakkimizda">HAKKIMIZDA</a>
+                    <a asp-controller="Proje" asp-action="SatilikMotorlar">SATILIK MOTORLAR</a>
+                    <a asp-controller="Proje" asp-action="SatilikEkipmanlar">SATILIK EKİPMANLAR</a>
+                    <a asp-controller="Proje" asp-action="Deneme">İLETİŞİM</a>
+
+
+             
+            </ul>
+            
+           </div>
+        </div>
+        @RenderBody()
+        <footer>
+            <p>Copyright 2024.Tüm Hakları Saklıdır.</p>
+
+                  <ul>
+                <li> <a asp-controller="Proje" asp-action="Anasayfa">ANASAYFA</a></li>
+                <li><a asp-controller="Proje" asp-action="Hakkimizda">HAKKIMIZDA</a></li>
+                <li><a asp-controller="Proje" asp-action="SatilikMotorlar">SATILIK MOTORLAR</a></li>
+                <li><a asp-controller="Proje" asp-action="SatilikEkipmanlar">SATILIK EKİPMANLAR</a></li>
+                <li><a asp-controller="Proje" asp-action="Iletisim">İLETİŞİM</a></li>
+
+                  </ul>
+        </footer>
+
+
+</header>
+</body>
+</html>

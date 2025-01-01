@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Umutcan_Gungor_241103013/1.0.0": {
+        "runtime": {
+          "Umutcan_Gungor_241103013.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Umutcan_Gungor_241103013/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

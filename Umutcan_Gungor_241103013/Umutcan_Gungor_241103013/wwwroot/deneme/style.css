@@ -1,0 +1,126 @@
+*{
+         
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+    }
+.container{
+  background-color:  #b7b9bb ;  
+  padding: 70px ; 
+  margin-top: 80px;
+             
+}
+.container h1{
+    text-align: center;
+}
+.container .yazi-kps1{
+   
+    width: 530px;
+    margin-top: 50px;
+    margin-left: 20px;
+}
+.container .yazi-kps1 h3{
+    font-size: 30px;
+ }
+.container .yazi-kps1 p{
+   margin-top: 15px;
+}
+.container .yazi-kps2 {
+    
+    width: 280px;
+    position: absolute;
+    left: 70%;
+    top: 440%;
+ }
+
+ .container .yazi-kps2 i{
+
+    display: flex;
+    float: left;
+    margin-right: 10px;
+    margin-top: 4px;
+ }
+ .container .yazi-kps3 {
+
+
+    text-align: center;
+    margin-top: 15px;
+ }
+ .container .yazi-kps3 h3{
+
+   font-size: 35px;
+ }
+ .container .yazi-kps3 .icons{
+
+    display: flex;
+    float: left;
+    position: absolute;  
+    left: 44%;
+    column-gap: 20px;
+    font-size: 35px;
+    
+
+}
+.container .yazi-kps3 a{
+    color: #212529;  
+    transition: .5s;
+}
+.container .yazi-kps3 a:hover{
+    color: #69798a;  
+}
+.container .yazi-kps2 a{
+    color: #212529;  
+    text-decoration: none;
+}
+.container2{
+    
+    height: 500px;
+    margin-top: 50px;
+}
+.container2 h1{
+    text-align: center;
+    font-size: 40px;
+}
+
+.container2 p{
+    text-align: center;
+    font-size: 22px;
+    margin-top: 45px;
+}
+.container2 .t3{
+    margin-left: 180px;
+}
+.container2 .t3 input{
+    width: 370px;
+    height: 52px;
+    text-align: center;
+    margin-left: 10px;
+    
+    
+}
+.container2 textarea{
+    margin-left: 190px;
+    width: 1140px;
+    margin-top: 30px;
+    height: 150px;
+    
+}
+.container2 button{
+    background: #3369e7;
+    color: #fff;
+    padding: 12px 35px;
+    font-size: 16px;
+    display: inline-block;
+    margin-top: 20px;
+    border: none;
+    transition: .5s;
+    margin-left: 705px;
+    width: 140px;
+    border-radius:8px;
+    font-size:18px;
+}
+.container2 button:hover{
+    background-color: #013ca6;
+}

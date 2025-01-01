@@ -1,0 +1,316 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+
+.container1 {
+    background-color: #f8f9fa;
+    padding: 5px;
+    margin-top: 5rem;
+}
+.container1 .kapsayici {
+    margin-top: 30px;
+    margin-bottom: 50px;
+ }
+.container1 h1 {
+    text-align: center;
+    margin-top: 80px;
+    font-weight: bolder;
+}    
+.container1 p {
+    text-align: center;
+    margin-top: 40px;
+    font-size: 20px;   
+}   
+
+.imgler {
+    display: flex;
+    justify-content: center;
+    column-gap: 70px;
+    margin-right: -1rem;
+    margin-top: 110px;
+    margin-bottom: 85px;
+}
+.imgler .img1 .yz1 {
+    position: absolute;  
+    top:1050%;
+    color: #eee;
+}
+
+.imgler .yz1 h2 {
+    margin-left: 50px;
+}
+
+.imgler .yz1 p {
+    font-size: 18px;
+}
+
+.imgler .img2 .yz2 {
+    color: #eee;
+    position:absolute;
+    top:1050%;
+}
+
+.imgler .yz2 p {
+    font-size: 18px;
+}
+
+.imgler .yz2 h2 {
+    margin-left: 50px;
+}
+   
+.img1 img {
+    
+    height: 400px;
+    width: 560px;
+    color: #fff;
+    border-radius: 5px;
+}
+
+.img2 img {
+    
+    border-radius: 5px;
+    height: 400px;
+    width: 560px;
+    color: #fff;
+}
+
+.img1 h2 {
+    text-align: center;
+    margin-top: 140px;
+    font-size: 30px;
+    font-weight: 600;
+}
+
+.img2 h2 {
+    text-align: center;
+    margin-top: 140px;
+    font-size: 30px;
+    font-weight: 600;
+}
+
+.img1 p {
+    font-size: 16px;
+}
+
+.img2 p {
+    font-size: 16px;
+}
+
+.container2 .kps2 {
+    margin-top: 150px;
+    margin-bottom: 50px;
+}
+
+.container2 #hh1 {
+    text-align: center;
+    margin-top: 150px;
+    margin-bottom: 50px;
+    font-weight: bolder;
+}
+
+.foto-msg {
+    display: flex;
+    margin-right: 55px;
+}
+
+#p1 {
+    color: #3369e7; 
+}
+
+.foto img {
+    width: 544px;
+    height: 358px;
+    border-radius: 8px;
+}
+
+.msg {
+    margin-left: 150px;
+}
+
+.foto {
+    margin-left: 100px;
+}
+
+/*.container2 button {
+    background-color: #3369e7;
+    padding: 12px 25px;
+    border: none;
+    margin-top: 10px;
+    transition: .5s;
+}*/
+
+/*button {
+    border-radius: 8px;
+}
+
+ button a {
+    color: #f8f9fa;
+    text-decoration: none;
+    font-size: 18px;
+}*/
+
+/*.container2 button:hover {
+    background-color: #013ca6;
+}*/
+
+#p2 {
+    margin-bottom: 55px;
+    font-size: 20px;
+}
+
+.container3 {
+    background-color: #f8f9fa;
+    padding: 5px;
+}
+
+.container3 h1 {
+    text-align: center;
+    font-size: 45px;
+    font-weight: bolder;
+}
+
+.cards {
+    display: flex;
+    margin-left: 2%;
+    column-gap: 20px;
+    margin-top: 80px;
+}
+
+.cards h3 {
+    color: #2c3038;
+}
+
+.cards p {
+    color: #555a64;
+}
+
+.cards img {
+    cursor: pointer;
+    width: 100px;
+    border-radius: 50%;
+    margin-bottom: 20px;
+}
+
+.card1 {
+    border: 2px solid #eee;
+    padding: 30px;
+    background: #fff;
+}
+
+.card2 {
+    border: 2px solid #eee;
+    padding: 30px;
+    background: #fff;
+}
+
+.card3 {
+    border: 2px solid #eee;
+    padding: 30px;
+    background: #fff;
+}
+
+.container3 .kps3 {
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+
+.container4 {
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(91,66,136,1) 37%, rgba(36,97,138,1) 59%, rgba(2,0,36,1) 99%);
+    border-radius: 5px;
+    margin-top: 2rem;
+}
+
+.baslik {
+    color: #fff;
+    display: flex;
+    margin-top: 5%;
+    column-gap: 180px;
+    margin-left: 4%;
+}
+
+.baslik h1 {
+    font-size: 55px;
+}
+
+.metins {
+    color: #eee;
+    display: flex;
+    column-gap: 100px;
+    margin-top: 5px;
+    margin-bottom: 20px;
+}
+
+.metins p {
+    font-size: 20px;
+    display: flex;
+}
+
+.yazilarrrr {
+    margin-left: 18%;
+    padding: 1px;
+}
+
+.container5 h1 {
+    text-align: center;
+    font-size: 35px;
+    margin-top: 55px;
+}
+
+.container5 .buttons {
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    font-size: 16px;
+}
+
+#bt1 {
+    color: #fff;
+    background-color: #3369e7;
+    border: none;
+    padding: 12px 30px;
+    margin-left: 15px;
+    transition: .5s;
+    font-size: 18px;
+    cursor: pointer;
+    border-radius:8px;
+}
+
+#bt2 {
+    background-color: #222;
+    color: #fff;
+    border: none;
+    padding: 12px 30px;
+    margin-left: 15px;
+    transition: .5s;
+    font-size: 18px;
+    cursor: pointer;
+    border-radius: 8px;
+}
+#bt3 {
+    background-color:#3369e7;
+    color: #fff;
+    border: none;
+    padding: 12px 30px;
+    margin-left: 15px;
+    transition: .5s;
+    font-size: 18px;
+    cursor: pointer;
+    border-radius: 8px;
+}
+#bt3:hover {
+    background-color: #013ca6;
+}
+
+#bt1:hover {
+    background-color: #013ca6;
+}
+
+#bt2:hover {
+    background-color: #494e56;
+}

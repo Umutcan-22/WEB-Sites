@@ -1,0 +1,175 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    background: rgb(236,218,226);
+    background: radial-gradient(circle, rgba(236,218,226,1) 0%, rgba(196,151,245,1) 100%);
+}
+.card-list .card-item .card-link {
+    width: 400px;
+    display: block;
+    background-color: #fff;
+    border-radius: 12px;
+    text-decoration: none;
+    padding: 18px;
+    border: 2px solid transparent;
+    box-shadow: 0 10px 10px rgba(0, 0, 0, 0.05);
+    transition: .5s ease;
+}
+
+    .card-list .card-item .card-link:hover {
+        border-color: #5372f0;
+    }
+
+.card-list {
+    justify-items: center;
+}
+
+    .card-list .card-item {
+        list-style: none;
+        margin-top: 50px;
+    }
+
+    .card-list .card-link .card-image {
+        width: 100%;
+        aspect-ratio: 16/9;
+        object-fit: cover;
+        border-radius: 10px;
+    }
+
+
+    .card-list .card-link .badge {
+        color: #5372f0;
+        background-color: #dde4ff;
+        margin: 16px 0 18px;
+        padding: 8px 16px;
+        font-weight: 600;
+        font-size: 18px;
+        border-radius: 50px;
+        width: fit-content;
+    }
+
+        .card-list .card-link .badge.dev {
+            color: #b22485;
+            background-color: #f7dff5;
+        }
+
+    .card-list .card-link .kps {
+        display: flex;
+        column-gap: 35px;
+        margin-bottom: 10px;
+        margin-top: 10px;
+    }
+
+    .card-list .card-link .badge.ern5 {
+        color: #b25A2B;
+        background-color: #ffe3d2;
+    }
+
+    .card-list .card-link .badge.cross {
+        color: #205c20;
+        background-color: #d6f8d6;
+    }
+
+    .card-list .card-link .badge.hornet {
+        color: #856404;
+        background-color: #fff3cd;
+    }
+
+    .card-list .card-link .badge.tnt {
+        color: #b22485;
+        background-color: #f7dff5;
+    }
+
+    .card-list .card-link .badge.cbr {
+        color: #b25A2B;
+        background-color: #ffe3d2;
+    }
+
+    .card-list .card-link .badge.cg {
+        color: #205c20;
+        background-color: #d6f8d6;
+    }
+
+    .card-list .card-link .badge.gt650 {
+        color: #856404;
+        background-color: #fff3cd;
+    }
+
+    .card-list .card-link .badge.ktm {
+        color: #b22485;
+        background-color: #f7dff5;
+    }
+
+    .card-list .card-link .badge.mt7 {
+        color: #b25A2B;
+        background-color: #ffe3d2;
+    }
+
+    .card-list .card-link .badge.ns200 {
+        color: #205c20;
+        background-color: #d6f8d6;
+    }
+
+    .card-list .card-link .badge.pcx {
+        color: #856404;
+        background-color: #fff3cd;
+    }
+
+    .card-list .card-link .badge.racer {
+        color: #b22485;
+        background-color: #f7dff5;
+    }
+
+    .card-list .card-link .badge.xj6 {
+        color: #b25A2B;
+        background-color: #ffe3d2;
+    }
+
+    .card-list .card-link .badge.zx1400 {
+        color: #205c20;
+        background-color: #d6f8d6;
+    }
+
+
+    .card-list .card-link .card-title {
+        color: #000;
+        font-weight: 600;
+        font-size: 22px;
+    }
+
+    .card-list .card-link .card-button {
+        background: none;
+        border: 2px solid #5372f0;
+        cursor: pointer;
+        width: 35px;
+        height: 35px;
+        border-radius: 50%;
+        margin: 30px 0 5px;
+        transform: rotate(-45deg);
+        transition: .5s ease;
+    }
+
+        .card-list .card-link .card-button:hover {
+            background-color: #5372f0;
+            color: #fff;
+        }
+
+.card-list {
+    margin-top: 40px;
+    margin-bottom: 40px;
+    display: grid;
+    column-gap: 40px;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+    .card-list .card-item {
+        margin-bottom: 15px;
+    }
